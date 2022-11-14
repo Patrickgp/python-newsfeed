@@ -4,7 +4,7 @@
 
 # Description
 The goal of this project was to demonstrate/learn the ability to use Python as a basis for a web server. I refactored an existing full stack javascript project and converted it to Python. I utilized Flask as the framework, SQLAlchemy as the ORM (Object-relational mapper) and PyMySQL as the means to connect my application to a MySQL database. I utilized bcrypt to hash passwords and python-dotenv to manage environment variables inside of venv (virtual environment). Lasty using Gunicorn to deploy due to the Flask built-in web server not being meant to run in a production environment.
-### Tech used in program: HTML,CSS,JavaScript
+### Tech used in program: HTML, CSS, JavaScript, Python, Flask, SQLAlchemy, PyMySQL, BCrypt, Gunicorn
 
 # Table of Contents
 * [Installation](#installation)
